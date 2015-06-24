@@ -8,11 +8,11 @@ The plugin runs once on page load and again when the screen resizes to the guara
 
 Include script after the jQuery library:
 
-    <script src="/path/to//js/responsivetables.js"></script>
+    <script src="/path/to/js/responsivetables.js"></script>
     
 Responsive tables includes a CSS style for the project and be included as below:
 
-    <link rel="stylesheet" href="/css/responsivetables.css"/> 
+    <link rel="stylesheet" href="/path/to/css/responsivetables.css"/> 
 
 ### NOTE
 
